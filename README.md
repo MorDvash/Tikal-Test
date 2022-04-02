@@ -20,8 +20,6 @@ Install my project and run it.
 ```bash
 git clone https://github.com/MorDvash/Tikal-Test.git
 
-npm install my-project
-
 docker-compose up
 ```
     
